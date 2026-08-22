@@ -1,0 +1,32 @@
+{
+  "packages": [
+    {
+      "name": "ane_products",
+      "maintainer": "AnE Products",
+      "websiteURL": "https://github.com/ian332isport/BMWCAN.git",
+      "help": {
+        "online": "https://github.com/ian332isport/BMWCAN.git"
+      },
+      "email": "ianhaynes@me.com",
+      "platforms": [
+        {
+          "name": "AnE Products SAMD boards",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "FIXME",
+          "archiveFileName": "bmw_can_interface_m0-1.0.0.zip",
+          "checksum": "SHA-256:ddaa1a325aa7539650995d80ceb3bef43b53ca4873d86e445825ea714fe69fe9",
+          "size": 117052,
+          "boards": [
+            {
+              "name": "BMW CAN Interface"
+            }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
